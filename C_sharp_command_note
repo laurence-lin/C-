@@ -6,4 +6,8 @@ C# work with PostgreSQL:
 
 
 
+For loop迴圈: foreach
+  foreach {item} in {list}
+
+
 
